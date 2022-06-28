@@ -99,7 +99,7 @@ git checkaut new_branch
 ```
 git checkaut master
 ```
-И далее сливием изменения из ветки `new_branch` в ветку `master` вводим в терминале команду:
+И далее сливаем изменения из ветки `new_branch` в ветку `master` вводим в терминале команду:
 ```
 git merge new_branch
 ```
