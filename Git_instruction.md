@@ -88,3 +88,18 @@ git branch new_branch
 git checkaut new_branch
 ```
 где `new_branch`, имя новой ветки.
+
+
+
+
+
+
+## 12. Слияние двух тветок в одну, `master`
+Для слияния двух веток переходим в ветку `master` командой:
+```
+git checkaut master
+```
+И далее сливием изменения из ветки `new_branch` в ветку `master` вводим в терминале команду:
+```
+git merge new_branch
+```
