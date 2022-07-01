@@ -99,4 +99,9 @@ git checkaut master
 ```
 git merge new_branch
 ```
+## 13. Добавление больших файлов в gitignore
+Для игнорирования большых файлов
+
+
+[![alt ffff](images/b1be787c9a1c2a1a5e42575c3e7fbbec.jpeg)](images/b1be787c9a1c2a1a5e42575c3e7fbbec.jpeg)
 
